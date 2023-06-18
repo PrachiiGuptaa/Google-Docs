@@ -11,7 +11,7 @@ HTML, CSS, JavaScript, ReactJS
 "html2canvas" "jspdf" "react-icons"
 
 ## To Clone this Project
-Terminal Command - git clone https://github.com/PrachiiGuptaa/googledoc
+Terminal Command - git clone https://github.com/PrachiiGuptaa/Google-Docs
 
 ## Install Dependency
 Terminal Command - npm i
