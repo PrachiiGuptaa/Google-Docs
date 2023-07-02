@@ -1,20 +1,28 @@
-## About
+# GOOGLE DOCS
 
-This is a basic document editor website. Similar to Google Doucment. User can do text formating. User can insert Image. User can download there work in PDF format.
+# **Description**
 
-## Tech Used
+The Google Docs is a fully functional web application that replicates the features of Google Docs, including editing the title and the document, and the ability to download the document as well as all the formatting options are functional.
 
-HTML, CSS, JavaScript, ReactJS
+# Tech Stack
+- HTML
+- CSS
+- JavaScript
+- React-JS
 
-## Dependancy Library
+# Dependency Libraries
+- React Icons
+- html2canvas
+- jspdf
+ 
+# Installation
 
-"html2canvas" "jspdf" "react-icons"
+To install and run the application locally, follow these steps:
+1. Clone this repository to your local machine
+2. Run npm install to install all dependencies
+3. Run npm start to start the development server
+4. Open http://localhost:3000/ in your browser to view the application
 
-## To Clone this Project
-Terminal Command - git clone https://github.com/PrachiiGuptaa/Google-Docs
+# Deployment link
+- http://google-docs-dusky.vercel.app
 
-## Install Dependency
-Terminal Command - npm i
-
-## Start the Project Server
-Terminal Command - npm start
